@@ -6,4 +6,3 @@ idna==3.7
 requests==2.32.2
 smmap==5.0.1
 urllib3==2.2.1
-pillow==10.0.0
